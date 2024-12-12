@@ -81,12 +81,13 @@ dias[4]<-- "Viernes"
 ```
 
 Luego presentar un reporte así
+```
 - Lunes $130
 - Martes $200
 - Miércoles $190
 - Jueves $200
 - Viernes $100
-
+```
 ### Ejercicios 6
 
 **Ejercicio06.java**
@@ -108,12 +109,15 @@ arreglo[2] <-- 2.3
 
 Generar una solución que permita de forma repetitiva solicitar a un cliente que seleccione los productos que desea comprar (hasta que le usuario lo decida). Por ejemplo, si el usuario decide comprar café tradicional, se debe preguntar el número de tazas y calcular el total a pagar por ese pedido solo pedido. Al final se debe presentar en una cada acumuladora lo siguiente.
 
+```
 El usuario ha comprado:
 
-Café tradicional (6 t), valor a cancelar $9
-Café alemán (3 t), valor a cancelar $6.3
-Café francés (2 t), valor a cancelar $4.6
+  Café tradicional (6 t), valor a cancelar $9
+  Café alemán (3 t), valor a cancelar $6.3
+  Café francés (2 t), valor a cancelar $4.6
+
 Total a pagar: 19.6
+```
 
 ### Ejercicio 7
 **Ejercicio07.java**
